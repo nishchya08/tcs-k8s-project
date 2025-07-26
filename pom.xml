@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tcs</groupId>
-	<artifactId>my-project</artifactId>
+	<artifactId>nishchya-project</artifactId>
 	<version>v1.0.0</version>
 	<packaging>jar</packaging>
-	<name>my-project</name>
+	<name>nishchya-project</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
